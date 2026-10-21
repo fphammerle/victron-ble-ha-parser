@@ -68,6 +68,12 @@ DEVICES = {
         "advertisement": "1000d0a10a341211ae1f956442c38567a6edf405f8a360e7",
         "key": "112233445566778899aabbccddeeff00",
     },
+    # Multi RS Solar 48V/6000VA/100A (model 0xA442), record type 0x0B
+    "multi_rs": {
+        "name": "Multi RS Solar",
+        "advertisement": "100042a40b785601d334f3746ffd3e10d12533ed37ac",
+        "key": "0123456789abcdef0123456789abcdef",
+    },
 }
 
 
